@@ -1,0 +1,5 @@
+2018.8.14
+1.三种常见下载方式：
+  1) J-Flash下载（需要用到J-link）
+  2) MDK配置下载（需要用到J-link）
+  3) ISP下载（串口下载，需要串口下载软件mcuisp、flymcu或flashloader）
