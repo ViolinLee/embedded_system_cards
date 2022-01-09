@@ -50,9 +50,9 @@
 | FPGA |  Field Programmable Gate | 现场可编程门阵列
 | FSMC |  Flexible Static Memory | 可变静态存储控制器
 | GAL |  Generic Array | 通用阵列逻辑
-| GPIO | General Purpose Input/Output 通用 | 端口
-| HSE | High Speed | 高速外部
-| HSI |  High Speed | 高速内部
+| GPIO | General Purpose Input/Output | 通用输入输出端口
+| HSE | High Speed External | 高速外部（时钟）
+| HSI |  High Speed Internal | 高速内部（时钟）
 | I2C | Inter-Integrated | 内置集成电路
 | ICE | In-Circuit | 在线仿真器
 | IDE | Integrated Development | 集成开发环境
@@ -75,6 +75,7 @@
 | PAL |  Programmable Array | 可编程阵列逻辑
 | PC | Program | 程序计数器
 | PFU |  Pre-Fetch | 预取单元
+| PLL |  Phase Locked Loop | 锁相环
 | PPB | Private Peripheral | 专用外设总线
 | PSP | Process Stack | 进程堆栈指针
 | RCC | Reset And Clock | 复位和时钟控制
